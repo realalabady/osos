@@ -1,0 +1,176 @@
+{
+    "common": {
+      "firmName": "Saad Khalid Alanazi Law & Legal Firm",
+      "firmNameShort": "Alanazi Law",
+      "tagline": "Foundations of Law and Legal Systems",
+      "phone": "057 576 0600",
+      "address": "Prince Mohammed Bin Fahd Road, Al Qusur, Dhahran 34247",
+      "location": "Dawan Complex",
+      "hours": "Open until 9:00 PM",
+      "rating": "5.0",
+      "reviews": "48 reviews",
+      "learnMore": "Learn More",
+      "contactUs": "Contact Us",
+      "readMore": "Read More",
+      "viewAll": "View All",
+      "submit": "Submit",
+      "loading": "Loading..."
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "team": "Our Team",
+      "blog": "Legal Insights",
+      "contact": "Contact"
+    },
+    "home": {
+      "hero": {
+        "title": "Your Legal Partner",
+        "subtitle": "Expert legal representation for businesses and individuals",
+        "cta": "Book a Consultation",
+        "secondaryCta": "Explore Our Services"
+      },
+      "intro": {
+        "title": "Real Experience, Real Results",
+        "description": "For over a decade, we've helped clients resolve complex legal challenges. From corporate disputes to family matters, we bring practical solutions backed by deep knowledge of Saudi legal systems."
+      },
+      "services": {
+        "title": "What We Do",
+        "subtitle": "Focused legal services for the challenges you actually face"
+      },
+      "whyUs": {
+        "title": "Why Choose Us",
+        "experience": {
+          "title": "15+ Years in Practice",
+          "description": "Handling real cases in Saudi courts, not just theory"
+        },
+        "trust": {
+          "title": "Client-Focused Approach",
+          "description": "We listen first, then build strategies that work for you"
+        },
+        "results": {
+          "title": "Track Record That Speaks",
+          "description": "Successful outcomes in litigation, arbitration, and negotiations"
+        }
+      },
+      "cta": {
+        "title": "Let's Discuss Your Case",
+        "description": "Schedule a consultation to explore your legal options",
+        "button": "Get in Touch"
+      }
+    },
+    "about": {
+      "hero": {
+        "title": "About Our Practice",
+        "subtitle": "Built on experience, driven by results"
+      },
+      "intro": {
+        "title": "Who We Are",
+        "description": "Alanazi Law was established to serve the business community and individuals facing legal challenges. We focus on practical solutions, not endless paperwork."
+      },
+      "philosophy": {
+        "title": "How We Work",
+        "description": "Every case starts with understanding your situation. We cut through legal jargon to explain your options clearly, then execute strategies designed for local courts and regulations. No false promises—just honest assessment and committed representation."
+      },
+      "values": {
+        "title": "What Drives Us",
+        "integrity": {
+          "title": "Straight Talk",
+          "description": "We tell you what you need to hear, not what you want to hear"
+        },
+        "excellence": {
+          "title": "Attention to Detail",
+          "description": "Small oversights can cost cases—we don't miss them"
+        },
+        "commitment": {
+          "title": "Your Fight, Our Fight",
+          "description": "When we take your case, we're in it with you until the end"
+        },
+        "confidentiality": {
+          "title": "Complete Discretion",
+          "description": "Your matters stay between us—always"
+        }
+      }
+    },
+    "services": {
+      "hero": {
+        "title": "Legal Services",
+        "subtitle": "Specialized representation where you need it most"
+      },
+      "consultation": {
+        "title": "Legal Consultation",
+        "description": "One-hour focused sessions to analyze your situation and map out your legal options. We review documents, identify risks, and provide actionable recommendations."
+      },
+      "corporate": {
+        "title": "Business & Commercial Law",
+        "description": "Company formation, partnership agreements, commercial disputes, and regulatory compliance. We handle the legal side so you can focus on growing your business."
+      },
+      "litigation": {
+        "title": "Court Representation",
+        "description": "Experienced representation before courts and arbitration panels. From filing to final judgment, we prepare thoroughly and argue effectively."
+      },
+      "contracts": {
+        "title": "Contract Drafting & Review",
+        "description": "Clear contracts prevent future disputes. We draft, review, and negotiate agreements that protect your interests while maintaining good business relationships."
+      },
+      "advisory": {
+        "title": "Legal Advisory Services",
+        "description": "Ongoing legal support for businesses that need regular guidance. Stay compliant, avoid pitfalls, and make informed decisions with us on call."
+      }
+    },
+    "team": {
+      "hero": {
+        "title": "Our Team",
+        "subtitle": "Distinguished lawyers and legal consultants"
+      },
+      "intro": "Our team comprises elite lawyers and legal consultants with extensive experience and high competence"
+    },
+    "blog": {
+      "hero": {
+        "title": "Legal Insights",
+        "subtitle": "Articles and legal updates"
+      },
+      "categories": {
+        "all": "All",
+        "updates": "Legal Updates",
+        "commercial": "Commercial Law",
+        "education": "Legal Education"
+      }
+    },
+    "contact": {
+      "hero": {
+        "title": "Get in Touch",
+        "subtitle": "Let's discuss how we can help with your legal matter"
+      },
+      "form": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message",
+        "success": "Your message has been sent successfully",
+        "error": "An error occurred, please try again"
+      },
+      "info": {
+        "title": "Contact Information",
+        "address": "Address",
+        "phone": "Phone",
+        "hours": "Business Hours",
+        "hoursValue": "Sunday - Thursday: 9 AM - 9 PM"
+      }
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "Sorry, the page you are looking for does not exist",
+      "button": "Return to Home"
+    },
+    "footer": {
+      "description": "Legal representation for businesses and individuals",
+      "quickLinks": "Quick Links",
+      "contactInfo": "Contact Information",
+      "copyright": "All rights reserved"
+    }
+  }
+  
