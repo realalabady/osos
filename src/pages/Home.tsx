@@ -49,17 +49,30 @@ const Home = () => {
         initial={{ opacity: 0, scale: 1.08 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1.5, ease: "easeOut" }}
-        className="relative min-h-screen w-full overflow-hidden bg-cover bg-center flex items-center justify-center bg-[#2b1a0f]"
-        style={{
-          backgroundImage: "url('/good one.png')",
-        }}
+        className="relative min-h-screen w-full overflow-hidden flex items-center justify-center bg-[#2b1a0f]"
       >
+        {/* Background Image - Desktop */}
+        <div 
+          className="hidden md:block absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: "url('/good one.png')",
+          }}
+        />
+        
+        {/* Background Image - Mobile */}
+        <div 
+          className="md:hidden absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: "url('/mobile-size.jpg')",
+          }}
+        />
+        
         {/* Animated dark overlay */}
         <motion.div 
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.2 }}
           transition={{ duration: 1.8, delay: 0.4 }}
-          className="absolute inset-0 bg-black/20" 
+          className="absolute inset-0 bg-black/20 z-10" 
         />
         
         {/* Animated subtle gradient overlay */}
@@ -67,7 +80,7 @@ const Home = () => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 2, delay: 0.6 }}
-          className="absolute inset-0 bg-gradient-to-b from-[#2b1a0f]/10 via-transparent to-[#2b1a0f]/30"
+          className="absolute inset-0 bg-gradient-to-b from-[#2b1a0f]/10 via-transparent to-[#2b1a0f]/30 z-10"
         />
       </motion.section>
 
